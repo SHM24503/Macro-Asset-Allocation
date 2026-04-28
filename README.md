@@ -5,7 +5,7 @@ Public research dashboard for a macro allocation framework across SPY, Gold, and
 
 A public-facing research dashboard for a macro allocation framework across SPY, Gold, and a capped Crypto satellite.
 
-🔗 **Live Dashboard**: https://yourusername.github.io/macro-allocation-dashboard/
+🔗 **Live Dashboard**: (https://github.com/SHM24503/Macro-Asset-Allocation)
 ---
 
 ## 📊 Dashboards
